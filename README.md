@@ -1,2 +1,7 @@
-# zabbix-aws
-collaboration tool with zabbix and aws
+# zabbixでawsを監視する
+
+このスクリプトは、Zabbixのディスカバリ機能を使って、AWSの情報を取得し、監視するためのものです。
+
+以下のことが可能です。
+・ディスカバリにより、EC2インスタンスを自動登録。
+・EC2インスタンスの情報を取得。
